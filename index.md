@@ -6,6 +6,7 @@ I am a computer science major aty CSUF and I plan graduate in 2027
 ## Favorite CPSC 120L Labs
 
 * Lab 1
+
 I think this was my favorite la, it was siimple and a foundation that helped me to learn all the basic commands t Learning al the git commands and linux commands was very important as it helped me have a better understanding of the whole class. Overall a necessary lab toget into the class.
 
 * Lab 3 part 1
